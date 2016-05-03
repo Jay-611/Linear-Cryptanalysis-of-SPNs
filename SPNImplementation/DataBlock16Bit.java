@@ -1,5 +1,3 @@
-package EncryptionAndDecryption;
-
 public class DataBlock16Bit 
 {
     private int data;
