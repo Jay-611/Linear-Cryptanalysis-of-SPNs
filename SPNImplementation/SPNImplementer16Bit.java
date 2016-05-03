@@ -1,5 +1,3 @@
-package EncryptionAndDecryption;
-
 public class SPNImplementer16Bit {
 
     private static int[][][] sBox;
