@@ -1,1 +1,1 @@
-# Linear-Cryptanalysis-of-SPNs
+# Linear Cryptanalysis of SPNs
